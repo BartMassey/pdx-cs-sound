@@ -1,8 +1,9 @@
-# CS 410/510 SOUND: Example Code
-Bart Massey
+# findpeak: Python 3 WAV reading example
+Copyright (c) 2019 Bart Massey
 
-This is a collection of sample code for my Portland State
-University CS 410/510 Computers, Sound, and Music class.
+This Python 3 program find the largest and smallest sample
+values in a WAV sound file. It is intended primarily as an
+example of using Python's `wave` library.
 
 ## License
 
